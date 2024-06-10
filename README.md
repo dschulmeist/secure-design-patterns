@@ -17,7 +17,7 @@ Quick overview of the patterns:
 - **[Secure Builder Factory Pattern](SecureBuilderFactory)**: The Secure Builder Factory Pattern is a creational design pattern that provides an interface for creating complex objects step by step. It is used to create secure objects based on the provided credentials.
 - **[Secure Strategy Factory Pattern](SecureStrategyFactory)**: The Secure Strategy Factory Pattern is a creational design pattern that provides an interface for selecting an algorithm at runtime. It is used to create secure objects based on the provided credentials.
 - **[Secure Chain of Responsibility Pattern](SecureChainOfResponsibility)**: The Secure Chain of Responsibility Pattern is a behavioral design pattern that allows an object to pass a request along a chain of handlers. It is used to create secure objects based on the provided credentials.
-- **[Secure State Machine Pattern](SecureStateMachinee)**: The Secure State Machine Pattern is a behavioral design pattern that allows an object to change its behavior when its internal state changes. It is used to create secure objects based on the provided credentials.
+- **[Secure State Machine Pattern](SecureStateMachine)**: The Secure State Machine Pattern is a behavioral design pattern that allows an object to change its behavior when its internal state changes. It is used to create secure objects based on the provided credentials.
 - **[Secure Visitor Pattern](SecureVisitor)**: The Secure Visitor Pattern is a behavioral design pattern that allows for additional operations to be added to an object structure. It is used to create secure objects based on the provided credentials.
 
 ## How to Use
