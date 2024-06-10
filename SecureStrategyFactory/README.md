@@ -1,0 +1,1 @@
+# Secure Strategy Factory Pattern
